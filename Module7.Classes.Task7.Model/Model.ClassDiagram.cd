@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Module7.Classes.Task7.Model.Delivery" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Delivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.Discount" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.HomeDelivery" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HomeDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.Order&lt;TDelivery, TStruct&gt;" Collapsed="true">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAgCAAgCAAAAAAAAAAAAEEAAACAAAAAAQw=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.PercentDiscount" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PercentDiscount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.PickPoint" Collapsed="true">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEAAAAAQAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>PickPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.PickPointDelivery" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACIAgAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PickPointDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.PrivilegeOrder" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrivilegeOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.Product" Collapsed="true">
+    <Position X="16" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAEAQAAAAAEAAAAAAAAACAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.ProductPriceCalculator" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ProductPriceCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.RegularDiscount" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAgAAAQIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RegularDiscount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.ShopDelivery" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShopDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Module7.Classes.Task7.Model.Сourier" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAwAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Сourier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Module7.Classes.Task7.Model.Client" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Module7.Classes.Task7.Model.Privilege" Collapsed="true">
+    <Position X="16" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Privilege.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
