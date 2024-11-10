@@ -10,11 +10,6 @@ namespace Module7.Classes.Task7.Model
         /// <summary>
         /// Цена доставки
         /// </summary>
-        private double deliveryPrice;
-
-        /// <summary>
-        /// Цена доставки
-        /// </summary>
         public override double DeliveryPrice
         {
             get

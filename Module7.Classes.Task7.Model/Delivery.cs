@@ -9,7 +9,22 @@ namespace Module7.Classes.Task7.Model
         /// <summary>
         /// Адрес доставки
         /// </summary>
-        public string? Address { get; set; }
+        protected string? address;
+
+        /// <summary>
+        /// Адрес доставки
+        /// </summary>
+        public string? Address 
+        { 
+            get
+            {
+                return address;
+            }
+            set
+            {
+                address = value;
+            }
+        }
 
         /// <summary>
         /// Цена доставки

@@ -5,7 +5,7 @@ namespace Module7.Classes.Task7.Model
     /// <summary>
     /// Курьер для доставки на дом
     /// </summary>
-    public class Сourier
+    public class Courier
     {
         /// <summary>
         /// Имя курьера или курьерской компании
@@ -20,7 +20,7 @@ namespace Module7.Classes.Task7.Model
         /// <summary>
         /// Цена доставки этим курьером или курьерской компании
         /// </summary>
-        public double СourierPrice { get; set; }
+        public double CourierPrice { get; set; }
     }
 
 }
